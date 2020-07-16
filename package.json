@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Umar Adam <umarmash@gmail.com> (https://umaradam.xyz)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/upgrades": "^2.8.0",
+    "@truffle/hdwallet-provider": "^1.0.38"
+  }
 }
