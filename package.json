@@ -1,0 +1,12 @@
+{
+  "name": "silver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Umar Adam <umarmash@gmail.com> (https://umaradam.xyz)",
+  "license": "MIT"
+}
